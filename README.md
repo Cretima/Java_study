@@ -1,2 +1,2 @@
-# University_Java
+# Java 
 대학 공부 및 과제
